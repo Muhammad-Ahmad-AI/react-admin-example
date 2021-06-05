@@ -1,4 +1,4 @@
-# React Admin Example using
+# React Admin Example using react-admin
 
 > Example of React Admin. We use JSON-Server for our REST API
 
