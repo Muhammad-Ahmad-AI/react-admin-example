@@ -22,4 +22,4 @@ npm run server
 # Run client only (:3000)
 npm run client
 ```
-Create Disboard
+Create Disboards And Enjoy using React
